@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711819952284",
+    "firebase_url": "https://flutterwallet-6aee2.firebaseio.com",
+    "project_id": "flutterwallet-6aee2",
+    "storage_bucket": "flutterwallet-6aee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711819952284:android:7480449af5e63f7f08ad59",
+        "android_client_info": {
+          "package_name": "com.example.flutter_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711819952284-nbost2h66m69qmlbsmjp5f0odov1dms9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_wallet",
+            "certificate_hash": "d1b8cc9ea4169afea5ccefdd3a9d08aab4a5b254"
+          }
+        },
+        {
+          "client_id": "711819952284-rmhf23bodm1nmpehro0cfi51qb0v4lf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmHTWu8YstGajMCAPAR_u8FhJSz_4OEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711819952284-rmhf23bodm1nmpehro0cfi51qb0v4lf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
